@@ -1,0 +1,7 @@
+---
+name: minio
+
+dependencies: []
+
+files:
+- minio/minio-RELEASE.2017-03-16T21-50-32Z.tar.gz

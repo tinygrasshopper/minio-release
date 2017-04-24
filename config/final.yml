@@ -1,0 +1,6 @@
+---
+name: minio
+blobstore:
+  provider: local
+  options:
+    blobstore_path: remote_blobs
